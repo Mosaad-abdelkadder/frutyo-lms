@@ -5,3 +5,8 @@ server/.env
 client/.env
 client/dist/
 .DS_Store
+
+# local secrets
+api_key_openai.txt
+.env
+*.pem
